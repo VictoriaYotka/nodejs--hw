@@ -1,4 +1,4 @@
-# Homework 1
+# CLI application
 
 Very beginning of Node.js studying. Work with local db (json file), do operations with contacts array:
 
